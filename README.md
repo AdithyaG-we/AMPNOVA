@@ -2,7 +2,7 @@
 Wave form generator and generates sine, square, triangle waves and a mathematical equation solver for differential equations with filter that give specific frequency waveforms.
 # Function Generator & Differential Equation Solver in LTspice
 
-## 📌 Project Overview
+##  Project Overview
 This project is an **electronics simulation in LTspice** that demonstrates a complete signal-processing chain, starting from **waveform generation** to **signal filtering**.  
 The project includes:
 
@@ -15,7 +15,7 @@ The project includes:
 
 ---
 
-## ⚡ Features
+##  Features
 
 ### 1. Function Generator
 - Generates multiple types of waveforms:
@@ -48,13 +48,13 @@ The project includes:
 
 ---
 
-## 🛠 Tools & Software
+##  Tools & Software
 - **LTspice** (simulation environment)
 - Basic knowledge of **circuit design and analog signal processing**
 
 ---
 
-## 📊 Applications
+##  Applications
 - Learning **analog signal processing**
 - Demonstrating **waveform generation and manipulation**
 - Understanding **differential equation solutions in electronics**
